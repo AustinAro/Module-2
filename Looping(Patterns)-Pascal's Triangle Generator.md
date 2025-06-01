@@ -3,6 +3,8 @@
 
 This project demonstrates a simple Python program to generate **Pascal’s Triangle**, where the number of rows is provided by the user.
 
+---
+
 ## Name   : Austin Aro A
 ## Reg No : 212224040038
 
