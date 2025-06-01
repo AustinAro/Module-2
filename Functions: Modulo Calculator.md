@@ -1,5 +1,8 @@
 # Functions in Python: Modulo Calculator
 
+## Name   : Austin Aro A
+## Reg No : 212224040038
+
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
